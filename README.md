@@ -1,19 +1,25 @@
 # Line Dancer
 
+## Open the app
+
+**[Launch Line Dancer on your phone or computer](https://line-dancer-jb.burlingamejosh.chatgpt.site)**
+
+Open the link in your browser. No download, account, or terminal commands are required. On iPhone, open it in Safari, tap **Share**, then **Add to Home Screen** for quick access. Your saved dances, ratings, and notes stay in the browser on the device you use.
+
 **Good times. Great lines.** A simple, mobile-first app for keeping track of the line dances you know and finding your next dance-floor favorite.
 
 <img src="docs/line-dancer-mobile.png" alt="Line Dancer mobile app" width="300" />
 
 ## What it does
 
-- Discover eight curated dances, from Copperhead Road to Texas Hold ’Em.
+- Discover curated dances, from Copperhead Road to Texas Hold ’Em.
 - Search by dance, song, artist, or choreographer; filter by difficulty and sort your results.
 - Save dances to your collection and mark them **Want to learn**, **Learning**, or **I know it**.
 - Watch a tutorial in each dance’s lesson tab or open it on YouTube.
 - View the choreographer’s original PDF step sheet and print it from your browser.
 - Record your own difficulty rating and practice notes, with a small glossary for unfamiliar steps.
 
-## Run locally
+## Developer setup
 
 Requires **Node.js 22.13.0 or newer** and npm.
 
